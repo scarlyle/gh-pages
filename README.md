@@ -9,6 +9,7 @@
 Here is a page to Everton's Website http://www.evertonfc.com/home
 
 Here are my Favorite Players
-|Team|Player|Jersey No.|
-|Everton|Tom Davies|26|
-|Panthers|Thomas Davis|58|
+  Team  |    Player  |Jersey No.
+ --- | --- | --- 
+Everton | Tom Davies |    26    
+Panthers|Thomas Davis|    58    
